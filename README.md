@@ -1,4 +1,4 @@
-# Meta Ads MCP — Guide Pratique
+# Meta Ads MCP, Guide Pratique
 
 > Connecter Claude a ton compte Meta Ads en 60 secondes. Officiel. Gratuit en beta.
 
