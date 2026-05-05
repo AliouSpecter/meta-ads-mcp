@@ -1,4 +1,6 @@
-# Meta Ads MCP, Guide Pratique
+![Meta Ads MCP Banner](assets/banner.svg)
+
+# Meta Ads MCP — Guide Pratique
 
 > Connecter Claude a ton compte Meta Ads en 60 secondes. Officiel. Gratuit en beta.
 
@@ -42,7 +44,6 @@ Dans Claude, tape : `Liste mes campagnes Meta actives`
 |---------|---------|
 | `prompts/10-prompts.md` | 10 prompts operationnels pour le quotidien |
 | `setup/claude-desktop.md` | Config detaillee Claude Desktop |
-| `setup/chatgpt.md` | Config ChatGPT (alternative) |
 
 ---
 
